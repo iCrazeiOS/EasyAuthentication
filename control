@@ -1,0 +1,9 @@
+Package: com.icraze.easyauthentication
+Name: EasyAuthentication
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Hold down on an account cell to copy the authentication code and display some other details. (Microsoft Authenticator)
+Maintainer: iCraze
+Author: iCraze
+Section: Tweaks
+Depends: mobilesubstrate
